@@ -1,7 +1,16 @@
 # vue-boilerplate
 
 ## Project Setup
+```sh
+npx vue-boiler-template@`latest_version` project_name 
+```
 
+For Example - 
+```sh
+npx vue-boiler-template@0.1.3 vue-template
+```
+
+### Install dependency
 ```sh
 npm install
 ```
