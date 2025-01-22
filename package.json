@@ -1,8 +1,8 @@
 {
-  "name": "tech-ninja-vue-template",
-  "version": "0.1.2",
+  "name": "vue-boiler-template",
+  "version": "0.1.3",
   "bin": {
-    "tech-ninja-vue-template": "./cli.js"
+    "vue-boiler-template": "./cli.js"
   },
   "private": false,
   "type": "module",
